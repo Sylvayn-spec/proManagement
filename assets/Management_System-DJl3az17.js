@@ -1,0 +1,1 @@
+var e=`/proManagement/assets/Management_System-CwJPj32Z.svg`;export{e as t};
